@@ -11,8 +11,8 @@ Output:
 For each test case, print a single line containing the string "YES" if the order is fair or "NO" if it is unfair.
 
 Constraints:
-1≤T≤100, 
-2≤N≤100, 
+1≤T≤100 
+2≤N≤100 
 1≤M≤103
 
 
